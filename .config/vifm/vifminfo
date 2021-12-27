@@ -1,0 +1,362 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/Users/korovkin/
+	..
+1506924389
+'b
+	/Users/korovkin/bin/
+	..
+1506924389
+'h
+	/Users/korovkin/
+	..
+1506924389
+'m
+	/Users/korovkin/v
+	hPebble
+1514965007
+
+# Bookmarks:
+
+# TUI:
+ar
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/Users/korovkin/v/xxx
+	..
+0
+d/Users/korovkin/v/gotools
+	..
+0
+d/Users/korovkin/v
+	ping.py
+29
+d/Users/korovkin
+	x
+22
+d/Users/korovkin/x
+	..
+0
+d/Users/korovkin/Desktop/audiobooks/Tony Blair
+	A Journey (Disc 01)
+1
+d/Users/korovkin/Desktop/audiobooks/Tony Blair/A Journey (Disc 01)
+	..
+0
+d/Users/korovkin/Desktop/audiobooks/Tony Blair
+	A Journey (Disc 02)
+2
+d/Users/korovkin/Desktop/audiobooks/Tony Blair/A Journey (Disc 02)
+	..
+0
+d/Users/korovkin/Desktop/audiobooks/Tony Blair
+	A Journey (Disc 03)
+3
+d/Users/korovkin/Desktop/audiobooks/Tony Blair/A Journey (Disc 03)
+	..
+0
+d/Users/korovkin/Desktop/audiobooks/Tony Blair
+	A Journey (Disc 04)
+4
+d/Users/korovkin/Desktop/audiobooks/Tony Blair/A Journey (Disc 04)
+	..
+0
+d/Users/korovkin/Desktop/audiobooks/Tony Blair
+	run.sh
+14
+d/Users/korovkin/Downloads/trans_002
+	..
+0
+d/Users/korovkin/Downloads
+	trans_002
+4
+d
+
+# Right window history (oldest to newest):
+D/Users/korovkin/Desktop/Metro 2033 Redux.app
+	Contents
+1
+D/Users/korovkin/Desktop/Metro 2033 Redux.app/Contents
+	..
+0
+D/Users/korovkin/Desktop/Metro 2033 Redux.app
+	..
+0
+D/Users/korovkin/Desktop/support
+	..
+0
+D/Users/korovkin/Public
+	Drop Box
+1
+D/Users/korovkin/Public/Drop Box
+	..
+0
+D/Users/korovkin/Public
+	..
+0
+D/Users/korovkin/go
+	bin
+1
+D/Users/korovkin/go/bin
+	..
+0
+D/Users/korovkin/go
+	src
+3
+D/Users/korovkin/go/src
+	github.com
+1
+D/Users/korovkin/go/src/github.com
+	..
+0
+D/Users/korovkin/go/src
+	..
+0
+D/Users/korovkin/go
+	src
+3
+D/Users/korovkin/v/gotools
+	net.go
+5
+D/Users/korovkin/v
+	gotools
+6
+D/Users/korovkin/v/gotools
+	net.go
+5
+D/Users/korovkin/v
+	gotools
+6
+D/Users/korovkin/v/gotools
+	..
+0
+D/Users/korovkin/v
+	ranger
+18
+D/Users/korovkin/v/ranger
+	..
+0
+D/Users/korovkin/v
+	yacc
+28
+D/Users/korovkin/v/yacc
+	..
+0
+D/Users/korovkin/v
+	yacc
+28
+D/Users/korovkin/v/yacc
+	..
+0
+D/Users/korovkin/v
+	tt
+24
+D/Users/korovkin/Desktop/_junk/juke
+	..
+0
+D/Users/korovkin/Desktop/_junk
+	juke
+8
+D/Users/korovkin/Desktop/_junk/juke
+	..
+0
+D/Users/korovkin/Desktop/_junk
+	..
+0
+D/Users/korovkin/Desktop
+	x
+8
+D/Users/korovkin/Desktop/x
+	..
+0
+D/Users/korovkin/Desktop
+	notifications
+6
+D/Users/korovkin/Downloads/trans
+	Annabelle.Creation.2017.[@Intermedia™].720p.BluRay.x264-.mp4
+4
+D/Users/korovkin/Downloads
+	trans
+13
+D/Users/korovkin/Downloads/trans
+	a
+1
+D/Users/korovkin/Downloads/trans/a
+	..
+0
+D/Users/korovkin/Downloads/trans
+	..
+0
+D/Users/korovkin/Downloads
+	trans
+13
+D/Users/korovkin
+	Downloads
+4
+D/Users/korovkin/Downloads
+	etherwallet-v3.11.1.2.zip
+7
+D/Users/korovkin
+	Downloads
+4
+D/Users/korovkin/Downloads
+	live_aac.m3u
+26
+D/Users/korovkin
+	Downloads
+4
+D/Users/korovkin/Downloads
+	trans_002
+2
+D/Users/korovkin/Desktop/audiobooks
+	Extraordinary Life of Sam
+1
+D/Users/korovkin/Desktop/audiobooks/Extraordinary Life of Sam
+	run.sh
+22
+D/Users/korovkin/Desktop
+	hgrosman
+3
+D/Users/korovkin/Desktop/hgrosman
+	updates.sh
+2
+D
+
+# Command line history (oldest to newest):
+:mkdir xxx
+:colorscheme 
+:chmod
+:wincmd
+:e
+:tree
+:redraw
+:undolist
+:if
+:popd
+:alink
+:s
+:sort
+:delcommand
+:fileviewer
+:jobs
+:lets
+:ls
+:;
+:zip
+:xit
+:sync
+:cd ~/Desktop/_junk/juke/
+:pwd
+:cd ~/
+:v
+:i
+:t
+:touch
+:colorscheme
+:mkdir x
+:copy 
+:cd ~/Downloads/trans/
+:cd ~/Desktop/audiobooks/
+:copy
+:rename
+:delete
+:only
+:help
+:q
+
+# Search history (oldest to newest):
+/he
+/:help
+/st
+/ya
+/go
+/ff
+/Resume
+/rn
+/run
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E01 - Chapter 1.mkv
+""/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E02 - Chapter 2.mkv
+""/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E03 - Chapter 3 - The Sin.mkv
+""/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E04 - Chapter 4 - Sanctuary.mkv
+""/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E05 - Chapter 5 - The Gunslinger.mkv
+""/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E06 - Chapter 6 - The Prisoner.mkv
+""/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E07 - Chapter 7 - The Reckoning.mkv
+""/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E08 - Chapter 8.mkv
+""/Users/korovkin/.local/share/vifm/Trash/000_The Martian (2015).mkv
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/Users/korovkin/.local/share/vifm/Trash/000_x.sh
+	/Users/korovkin/v/x.sh
+t/Users/korovkin/.local/share/vifm/Trash/000_simple
+	/Users/korovkin/v/yacc/simple
+t/Users/korovkin/.local/share/vifm/Trash/000_README.md
+	/Users/korovkin/v/yacc/README.md
+t/Users/korovkin/.local/share/vifm/Trash/000_error.go
+	/Users/korovkin/v/xxx/error.go
+t/Users/korovkin/.local/share/vifm/Trash/000_http.go
+	/Users/korovkin/v/xxx/http.go
+t/Users/korovkin/.local/share/vifm/Trash/000_json.go
+	/Users/korovkin/v/xxx/json.go
+t/Users/korovkin/.local/share/vifm/Trash/000_md5.go
+	/Users/korovkin/v/xxx/md5.go
+t/Users/korovkin/.local/share/vifm/Trash/000_net.go
+	/Users/korovkin/v/xxx/net.go
+t/Users/korovkin/.local/share/vifm/Trash/000_pq.go
+	/Users/korovkin/v/xxx/pq.go
+t/Users/korovkin/.local/share/vifm/Trash/000_string.go
+	/Users/korovkin/v/xxx/string.go
+t/Users/korovkin/.local/share/vifm/Trash/000_mattermost-3.6.0-linux-amd64.tar.gz
+	/Users/korovkin/Desktop/x/mattermost-3.6.0-linux-amd64.tar.gz
+t/Users/korovkin/.local/share/vifm/Trash/000_Bridge of Spies (2015).mp4
+	/Users/korovkin/Downloads/trans_002/Bridge of Spies (2015).mp4
+t/Users/korovkin/.local/share/vifm/Trash/000_Contagion.2011.720p.Blu-ray.mp4
+	/Users/korovkin/Downloads/trans_002/Contagion.2011.720p.Blu-ray.mp4
+t/Users/korovkin/.local/share/vifm/Trash/000_Dark.Waters.2019.720p.Web.mp4
+	/Users/korovkin/Downloads/trans_002/Dark.Waters.2019.720p.Web.mp4
+t/Users/korovkin/.local/share/vifm/Trash/000_Jumanji.The.Next.Level.2019.720p.Web.@intermedia.mp4
+	/Users/korovkin/Downloads/trans_002/Jumanji.The.Next.Level.2019.720p.Web.@intermedia.mp4
+t/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E01 - Chapter 1.mkv
+	/Users/korovkin/Downloads/trans_002/The Mandalorian - S01E01 - Chapter 1.mkv
+t/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E02 - Chapter 2.mkv
+	/Users/korovkin/Downloads/trans_002/The Mandalorian - S01E02 - Chapter 2.mkv
+t/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E03 - Chapter 3 - The Sin.mkv
+	/Users/korovkin/Downloads/trans_002/The Mandalorian - S01E03 - Chapter 3 - The Sin.mkv
+t/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E04 - Chapter 4 - Sanctuary.mkv
+	/Users/korovkin/Downloads/trans_002/The Mandalorian - S01E04 - Chapter 4 - Sanctuary.mkv
+t/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E05 - Chapter 5 - The Gunslinger.mkv
+	/Users/korovkin/Downloads/trans_002/The Mandalorian - S01E05 - Chapter 5 - The Gunslinger.mkv
+t/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E06 - Chapter 6 - The Prisoner.mkv
+	/Users/korovkin/Downloads/trans_002/The Mandalorian - S01E06 - Chapter 6 - The Prisoner.mkv
+t/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E07 - Chapter 7 - The Reckoning.mkv
+	/Users/korovkin/Downloads/trans_002/The Mandalorian - S01E07 - Chapter 7 - The Reckoning.mkv
+t/Users/korovkin/.local/share/vifm/Trash/000_The Mandalorian - S01E08 - Chapter 8.mkv
+	/Users/korovkin/Downloads/trans_002/The Mandalorian - S01E08 - Chapter 8.mkv
+t/Users/korovkin/.local/share/vifm/Trash/000_The Martian (2015).mkv
+	/Users/korovkin/Downloads/trans_002/The Martian (2015).mkv
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].0
+]F
+s0

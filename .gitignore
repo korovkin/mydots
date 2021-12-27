@@ -13,3 +13,7 @@ tags
 .DS_Store
 .files.index
 _build/*
+.config/joplin*
+.config/yarn*
+.config/gh*
+.config/pgcli/*

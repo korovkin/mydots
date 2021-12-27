@@ -1,0 +1,47 @@
+search x
+redraw_window 
+open_with Preview.App
+tab_move 
+tab_switch 
+tab_switch 1
+tab_switch 2
+tab_new 
+rename tpodsaaoo
+search key
+copy 
+search User
+open_with 0
+rename ping.err.log
+rename errors.log_z
+shell echo "1"
+find er
+filter 
+search rang
+cd 
+cd ~/v/
+cd /Users/korovkin/v/
+default_linemode 
+shell q
+cd /Users/korovkin/Desktop/
+flat 
+cd /Users/korovkin/v/Ultimate-Blocklist
+open_with 2
+open_with 
+open_with q
+search v
+delete 
+
+help
+cd /usr/share/doc/ranger/examples/
+shell pws
+shell pwd
+search ranger
+search range
+search config
+change_mode 
+delete
+make
+shell 
+shell -p 
+shell -p cat 
+q
