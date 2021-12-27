@@ -1,10 +1,11 @@
 [core]
   excludesfile = ~/.gitignore
 	quotepath = false
+  sshCommand = "ssh -i ~/.ssh/id_rsa_korovkin_github -F /dev/null"
 
 [user]
   name=Haim Grosman
-  email=haim@taptaphq.com
+  email=korovkin@gmail.com
   di=diff --color-words
 
 [alias]
