@@ -1,0 +1,35 @@
+[core]
+  excludesfile = ~/.gitignore
+	quotepath = false
+
+[user]
+  name=Haim Grosman
+  email=haim@taptaphq.com
+  di=diff --color-words
+
+[alias]
+  s = status
+  st = status
+  br = branch
+  b = branch
+  ci = commit -v
+  hlog = log --name-status --graph
+  vimdiff = difftool -y -t vimdiff
+  gvimdiff = difftool -y -t gvimdiff
+  vimmerge = "!git vimdiff HEAD:$1"
+  gvimmerge = "!git gvimdiff HEAD:$1"
+  olog = log --format=oneline
+  llog = log --graph --pretty=format:'%H (%cr) %an : %d %s'
+  l = log -n 10 --graph --pretty=format:'%H (%cr) %an : %d %s'
+
+  branch-name = rev-parse --abbrev-ref HEAD
+  branch-push = "!git push origin $(git branch-name)"
+
+  br-name       = rev-parse --abbrev-ref HEAD
+  br-push-main  = "!git push origin $(git br-name)"
+  br-push-pr    = "!git push origin $(git br-name):refs/heads/me/haim/$(git br-name)"
+
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true

@@ -1,0 +1,15 @@
+*.pyc
+*.swo
+*.swp
+*.swn
+cscope.po.out
+cscope.in.out
+cscope.in.out
+.DerivedData
+*.xcbkptlist
+cscope.files
+cscope.out
+tags
+.DS_Store
+.files.index
+_build/*
