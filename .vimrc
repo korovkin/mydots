@@ -125,4 +125,5 @@ Plug 'nsf/gocode', { 'tag': 'v.20150303', 'rtp': 'vim' }
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 call plug#end()
 
-
+set vb t_vb=     " no visual bell & flash
+set belloff=all

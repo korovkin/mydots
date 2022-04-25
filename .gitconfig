@@ -1,7 +1,11 @@
 [core]
   excludesfile = ~/.gitignore
 	quotepath = false
-  sshCommand = "ssh -i ~/.ssh/id_rsa_korovkin_github -F /dev/null"
+  # github korovkin:
+  # sshCommand = "ssh -i ~/.ssh/id_rsa_korovkin_github -F /dev/null"
+  # github: korovkintaptap
+  sshCommand = "ssh -i ~/.ssh/id_rsa -F /dev/null"
+
 
 [user]
   name=Haim Grosman
