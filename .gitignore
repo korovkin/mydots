@@ -17,3 +17,4 @@ _build/*
 .config/yarn*
 .config/gh*
 .config/pgcli/*
+.DS_Store

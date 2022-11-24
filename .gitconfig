@@ -1,7 +1,11 @@
 [core]
   excludesfile = ~/.gitignore
 	quotepath = false
-  sshCommand = "ssh -i ~/.ssh/id_rsa_korovkin_github -F /dev/null"
+  # github korovkin:
+  # sshCommand = "ssh -i ~/.ssh/id_rsa_korovkin_github -F /dev/null"
+  # github: korovkintaptap
+  sshCommand = "ssh -i ~/.ssh/id_rsa -F /dev/null"
+
 
 [user]
   name=Haim Grosman
@@ -28,7 +32,7 @@
 
   br-name       = rev-parse --abbrev-ref HEAD
   br-push-main  = "!git push origin $(git br-name)"
-  br-push-pr    = "!git push origin $(git br-name):refs/heads/me/haim/$(git br-name)"
+  br-push-pr    = "!git push origin $(git br-name):refs/heads/me/korovkin/$(git br-name)"
 
 [filter "lfs"]
 	clean = git-lfs clean %f
