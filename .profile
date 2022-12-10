@@ -17,48 +17,10 @@ source $SCRIPTS/ciphers.sh
 
 [[ -r "/opt/homebrew/etc/profile.d/bash_completion.sh" ]] && . "/opt/homebrew/etc/profile.d/bash_completion.sh"
 
-function topbeaver_ssh() {
-  autossh -M 9999 \
-    -i ~/.ssh/id_rsa \
-    -o ServerAliveInterval=10 \
-    -o ServerAliveCountMax=3 \
-    korovkin@topbeaver.com
-}
-
-function tunnel_borka() {
-  autossh -M 9999 \
-    -L 6090:localhost:9090 \
-    -L 6100:localhost:9100 \
-    -o ServerAliveInterval=10 \
-    -o ServerAliveCountMax=3 \
-    ubuntu@borka.krzcool.com
-}
-
-function tunnel_rpi() {
-  autossh -M 9999 \
-    -L 5090:localhost:9090 \
-    -L 5100:localhost:9100 \
-    -L 8080:192.168.86.209:80 \
-    -o ServerAliveInterval=10 \
-    -o ServerAliveCountMax=3 \
-    pi@h.krzcool.com
-}
-
-function tunnel_rpiz() {
-  autossh -M 9988 \
-    -o ServerAliveInterval=10 \
-    -o ServerAliveCountMax=3 \
-    -p 2266 \
-    -J topbeaver.com \
-    pi@localhost
-}
 
 test -e "${HOME}/.iterm2_shell_integration.bash" && source "${HOME}/.iterm2_shell_integration.bash"
 
 # python
 # source ~/_py39/bin/activate
 
-
-export DENO_INSTALL="/Users/korovkin/.deno"
 export PATH="$DENO_INSTALL/bin:$PATH"
-

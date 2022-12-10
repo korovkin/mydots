@@ -1,9 +1,7 @@
-export EMAIL='haim@taptaphq.com'
+export EMAIL='korovkin@gmail.com'
 export REPLYTO=$EMAIL
-
 export HISTSIZE=10000
 export HISTFILESIZE=10000
-
 export EDITOR=vim
 export SVN_EDITOR=vim
 export HGEDITOR=vim
@@ -46,9 +44,9 @@ function docker_armageddon() {
 
 alias mvim="/Applications/MacVim.app/Contents/bin/mvim"
 
+export PS1='\t $? \u@\h $(__git_ps1 "%s") \w >\n $ '
+
 function rpi_sync_videos() {
   find ~/Downloads -name ".DS_*" -delete -print
   cd ~/Downloads/trans/ && chmod 777 * && rsync -Ravt --progress * pi@rpi.lan:~/media/trans/
 }
-
-export PS1='\t $? \u@\h $(__git_ps1 "%s") \w >\n $ '

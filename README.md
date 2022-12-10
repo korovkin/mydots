@@ -1,2 +1,3 @@
 # mydots
-dot files
+
+Yet another dot files repo.
