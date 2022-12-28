@@ -21,6 +21,8 @@ alias awk2="awk '{print \$2}'"
 alias awk3="awk '{print \$3}'"
 alias awklast="rev | awk1 | rev"
 alias vimod="vim \`git st | grep -v '??' | rev | awk1 | rev\`"
+alias gvimdiff="mvim -d -g"
+alias mvimdiff="mvim -d -g"
 
 alias docker_run="docker run -it --entrypoint /bin/bash $1"
 alias docker_prune="docker system prune -a"

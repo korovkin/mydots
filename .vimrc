@@ -1,12 +1,13 @@
 set nocompatible              " be iMproved, required
-filetype off                  " required
 
+filetype off                  " required
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 call vundle#end()            " required
 filetype plugin indent on    " required
 
 syntax on
+
 set tabstop=2
 set shiftwidth=2
 set nu
@@ -110,12 +111,7 @@ else
 	colorscheme default
 endif
 
-let g:go_list_type = "quickfix"
-
 set rtp+=/usr/local/opt/fzf
-
-" delete some white space:
-autocmd BufWritePre * :%s/\s\+$//e
 
 call plug#begin('~/.vim/plugged')
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
@@ -127,3 +123,9 @@ call plug#end()
 
 set vb t_vb=     " no visual bell & flash
 set belloff=all
+
+" delete some white space:
+autocmd BufWritePre * :%s/\s\+$//e
+let g:go_list_type = "quickfix"
+set backspace=indent,eol,start
+
