@@ -52,3 +52,8 @@ function rpi_sync_videos() {
   find ~/Downloads -name ".DS_*" -delete -print
   cd ~/Downloads/trans/ && chmod 777 * && rsync -Ravt --progress * pi@rpi.lan:~/media/trans/
 }
+
+
+alias dotfiles='git --git-dir=/Users/korovkin/v/mydots/.git --work-tree=/Users/korovkin/v/mydots/'
+
+
