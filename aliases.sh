@@ -53,7 +53,6 @@ function rpi_sync_videos() {
   cd ~/Downloads/trans/ && chmod 777 * && rsync -Ravt --progress * pi@rpi.lan:~/media/trans/
 }
 
-
-alias dotfiles='git --git-dir=/Users/korovkin/v/mydots/.git --work-tree=/Users/korovkin/v/mydots/'
+alias dotfiles='git --git-dir=$HOME/v/mydots/.git --work-tree=$HOME/v/mydots/'
 
 
