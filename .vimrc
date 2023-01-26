@@ -3,6 +3,7 @@ set nocompatible              " be iMproved, required
 filetype off                  " required
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
+Plugin 'hashivim/vim-terraform'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
@@ -95,9 +96,9 @@ if has("gui_running")
   set lines=35 columns=120
 	" colorscheme blueshift
 	" colorscheme winter
-	" colorscheme foursee
+	colorscheme foursee
 	" colorscheme 1989
-	colorscheme dual
+	" colorscheme dual
 	" colorscheme abra
   " set guifont=Courier\ 10\ Pitch\ 12
   " set guifont=Monospace\ Bold\ 10

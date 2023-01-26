@@ -21,4 +21,5 @@ _build/*
 .config/htop/*
 .config/vifm/*
 .DS_Store
-
+.config/acp
+.config/stripe
