@@ -44,8 +44,6 @@ function docker_armageddon() {
     docker rmi -f $(docker images -qa)
 }
 
-alias mvim="/Applications/MacVim.app/Contents/bin/mvim"
-
 export PS1='\t $? \u@\h $(__git_ps1 "%s") \w >\n $ '
 
 function rpi_sync_videos() {
@@ -54,5 +52,4 @@ function rpi_sync_videos() {
 }
 
 alias dotfiles='git --git-dir=$HOME/v/mydots/.git --work-tree=$HOME/v/mydots/'
-
 
