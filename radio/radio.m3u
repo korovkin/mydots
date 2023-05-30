@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0,102fm_aac
+https://102.livecdn.biz/102fm_aac
+#EXTINF:0,102fm_mp3
+https://102.livecdn.biz/102fm_mp3
+#EXTINF:0,CamFM
+https://stream.camfm.co.uk/camfm
+#EXTINF:0,GLGLZ_mp3
+http://glzwizzlv.bynetcdn.com/glglz_mp3
+#EXTINF:0,voscast
+https://s7.voscast.com:8693/stream
+#EXTINF:0,wicb_aac_high
+https://icecast.do.zufall.co/wicb_aac_high
+#EXTINF:0,wiley_radio
+https://azuracast.wileyradio.org/listen/wiley_radio/radio.mp3
+#EXTINF:0,somafm: groovesalad-128-aac -
+http://ice1.somafm.com/groovesalad-128-aac
+#EXTINF:0,somafm: secretagent-128-aac -
+http://ice1.somafm.com/secretagent-128-aac
+#EXTINF:0,somafm: deepspaceone-128-aac -
+http://ice1.somafm.com/deepspaceone-128-aac
