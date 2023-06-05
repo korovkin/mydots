@@ -19,3 +19,9 @@ http://ice1.somafm.com/groovesalad-128-aac
 http://ice1.somafm.com/secretagent-128-aac
 #EXTINF:0,somafm: deepspaceone-128-aac -
 http://ice1.somafm.com/deepspaceone-128-aac
+#EXTINF:0,swiss: pop
+https://stream.srg-ssr.ch/m/rsp/mp3_128
+#EXTINF:0,swiss: jazz
+https://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:0,swiss: classic
+https://stream.srg-ssr.ch/m/rsc_de/mp3_128
