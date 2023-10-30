@@ -25,3 +25,9 @@ https://stream.srg-ssr.ch/m/rsp/mp3_128
 https://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:0,swiss: classic
 https://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:0,Cafe Radio
+https://strm112.1.fm/caferadio_mobile_mp3
+#EXTINF:0,AMS Trance
+https://strm112.1.fm/atr_mobile_mp3
+#EXTINF:0,Top40 - Mobile
+https://strm112.1.fm/top40_mobile_mp3
